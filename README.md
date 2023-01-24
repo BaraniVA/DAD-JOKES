@@ -19,11 +19,17 @@ To install open ai run the command:
 
 Step by step to create or get API KEY:
 1.Go to the OpenAI website (https://openai.com/) and click on the "Get API Key" button in the top right corner.
+
 2.Sign up for an OpenAI account by providing your email address and creating a password.
+
 3.Once you have signed up, you will be taken to your API key management page. Here, you can create a new API key by clicking on the "Create API Key" button.
+
 4.Give your key a name and select the scopes you want to use (for example, GPT-3).
+
 5.Click on the "Create" button to create the key.
+
 6.The key will be displayed on the screen and can also be found on the API key management page.
+
 "It is important to keep your API key secure and not share it with anyone." 
 
 Built With
