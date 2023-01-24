@@ -33,10 +33,15 @@ Step by step to create or get API KEY:
 "It is important to keep your API key secure and not share it with anyone." 
 
 Built With
+
 1.Python
+
 2.OpenAI
+
 Author
+
 Barani - BaraniVA
 
 Acknowledgments
+
 Inspiration from OpenAI
